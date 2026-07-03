@@ -52,3 +52,8 @@ try {
 } catch (erro) {
   console.log("erro:", erro.message);
 }
+try {
+    console.log(multiplica("abc", 3))
+} catch (erro) {
+    console.log("erro:", erro.message)
+}
