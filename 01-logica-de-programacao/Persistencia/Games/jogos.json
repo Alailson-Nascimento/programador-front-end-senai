@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "nome": "The Last of Us",
+         "preco": 250,
+        "estoque": 15
+    },
+    {
+         "id": 2,
+        "nome": "God of War",
+        "preco": 200,
+        "estoque": 20
+    }
+]
